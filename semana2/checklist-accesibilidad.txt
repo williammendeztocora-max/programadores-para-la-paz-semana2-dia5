@@ -1,8 +1,8 @@
 Checklist de accesibilidad – Formulario Participa
 
-Nombre del estudiante: maria isabel castro ante
-Fecha: 29 042026
-Nombre de la rama: maria-isabel-castro
+Nombre del estudiante: william mendez tocora 
+Fecha: 1/05/2026
+Nombre de la rama: william-mendez
 
 1. ¿El formulario tiene un título claro?
 Respuesta: Sí, el formulario tiene un título claro que indica

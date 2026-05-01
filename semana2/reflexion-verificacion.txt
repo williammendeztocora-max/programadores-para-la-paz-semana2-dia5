@@ -1,60 +1,14 @@
-<<!DOCTYPE html>
-<html lang="es">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Formulario Participa</title>
-  <link rel="stylesheet" href="styles.css">
-</head>
-<body>
+Reflexión de verificación responsable
 
-  <main>
-    <section class="contenedor">
+Nombre del estudiante:william mendez tocora
+Fecha:01/05/2026
+Nombre de la rama:william-mendez
 
-      <h1>Formulario de Participación</h1>
+Escribe una reflexión de 8 a 10 líneas respondiendo las siguientes preguntas:
 
-      <p>
-        Este formulario permite recoger ideas, propuestas y opiniones de la comunidad.
-        La información será usada únicamente con fines de participación responsable.
-      </p>
+1. ¿Por qué no se debe compartir cualquier información sin verificar?
+2. ¿Cómo ayuda la verificación responsable a proteger a una comunidad?
+3. ¿Por qué la accesibilidad también es una forma de inclusión digital?
+4. ¿Qué relación tiene el formulario “Participa” con la participación ciudadana?
 
-      <form>
-
-        <label for="nombre">Nombre completo</label>
-        <input type="text" id="nombre" name="nombre" placeholder="maria-isabel-castro" required>
-
-        <label for="correo">Correo electrónico</label>
-        <input type="email" id="correo" name="correo" placeholder="anyic402@gmail.com
-        <label for="mensaje">Mensaje o propuesta</label>
-        <textarea id="mensaje" name="mensaje" placeholder=Mi propuesta para la comunidad es
-     fomentar más espacios de participación donde las personas
-          puedan expresar sus ideas y necesidades de manera sencilla y
-           segura. También considero importante mejorar la comunicación
-            entre la comunidad y las instituciones, para que la 
-            información llegue de forma clara y oportuna. Además,
-           sería bueno promoveractividades educativas y tecnológicas 
-           que ayuden a los jóvenes a involucrarse más en el desarrollo de su entorno
-         y a usar la tecnología de forma responsable."" required></textarea>
-
-        <label for="tema">Tema de interés</label>
-        <select id="tema" name="tema">
-          <option>Educación</option>
-          <option>Tecnología</option>
-          <option>Comunidad</option>
-          <option>Medio ambiente</option>
-        </select>
-
-        <label>
-          <input type="checkbox" required>
-          Acepto el uso responsable de mi información
-        </label>
-
-        <button type="submit">Enviar participación</button>
-
-      </form>
-
-    </section>
-  </main>
-
-</body>
-</html>
+Respuesta:No se debe compartir cualquier información sin verificar porque puede ser falsa y causar confusión o daño a otras personas. La verificación responsable ayuda a proteger a la comunidad porque evita la propagación de rumores y promueve decisiones informadas. Cuando verificamos fuentes, cuidamos la confianza entre las personas y fortalecemos la convivencia digital. La accesibilidad es una forma de inclusión digital porque permite que todas las personas, sin importar sus capacidades o condiciones, puedan acceder a la información. Esto garantiza igualdad de oportunidades en el entorno digital. El formulario “Participa” se relaciona con la participación ciudadana porque brinda un espacio para opinar, proponer ideas y ser escuchados. Así, las personas pueden involucrarse activamente en su comunidad.
